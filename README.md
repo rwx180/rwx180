@@ -8,8 +8,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uS5WQaxS1B5prYfw8i/giphy.gif" width="150"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/rawan-h-562722222">
+  <a href="www.linkedin.com/in/rawan-hatem">
     <img src="https://img.shields.io/badge/LinkedIn-navy?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="www.behance.net/rwuxdesigner">
+    <img src="[https://img.shields.io/badge/LinkedIn-navy?style=for-the-badge&logo=linkedin&logoColor=white](https://www.elementalmedia.co.uk/wp-content/uploads/2018/09/featured.jpg)" alt="behance Badge"/>
   </a>
   <a href="https://twitter.com/zra2__">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
