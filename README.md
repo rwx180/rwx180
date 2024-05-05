@@ -8,7 +8,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uS5WQaxS1B5prYfw8i/giphy.gif" width="150"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/rawan-hatem">
+  <a href="https://www.linkedin.com/in/rawan-hatem/">
     <img src="https://img.shields.io/badge/LinkedIn-navy?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://twitter.com/zra2__">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
