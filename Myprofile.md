@@ -10,10 +10,6 @@
   <div id="badges">
   <a href="www.linkedin.com/in/rawan-hatem">
     <img src="https://img.shields.io/badge/LinkedIn-navy?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="www.behance.net/rwuxdesigner">
-    <img src="https://www.vhv.rs/dpng/d/471-4718334_behance-logo-png-white-transparent-png.png" alt="behance Badge"/>
-  </a>
   <a href="https://twitter.com/zra2__">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
