@@ -23,8 +23,9 @@
 ---
 
 ### :woman_technologist: About Me :
+- 🖍️ UI/UX Designer
 - 👀 I’m interested in data science and how we can used it to make people's lives easier
-- 🌱 I’m currently learning Bio Artificial intelligence
+- 💻 I’m currently learning Bio Artificial intelligence
 - I am an AI engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from egypt.
 - :octocat: I’m working as a Software Engineer and contributing to frontend and backend for building web applications
 ---
